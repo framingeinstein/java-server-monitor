@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : config.xml
+    Created on : June 2, 2008, 1:14 PM
+    Author     : jmorgan
+    Description:
+        Purpose of the document follows.
+-->
+<root>
+    <reporting enabled="true" port="50500" />    
+    <monitoring enabled="true" interval="10" timeout="5">
+        <mail server="smtp.gmail.com" 
+              username="jason@framingeinstein.com" 
+              password="h4K^cr&amp;#" 
+              errorto="jmorgan@planwithtan.com" />
+        <sites>                              
+            <site name="www.planwithtan.com" path="/" >
+                <!--
+                <notifications>
+                    <email address="jmorgan@planwithtan.com" after="3" on="5[0-9][0-9],404"/>
+                    <email address="jason@framingeinstein.com" after="5" on="5[0-9][0-9]"/>
+                    <twitter handle="JasonMMorgan" after="7" on="5[0-9][0-9]" public="false" />
+                    <sms handle="JasonMMorgan" after="7" on="5[0-9][0-9]" />
+                    <im handle="jason@framingeinstein.com" />
+                </notifications>
+                <healing after="3" repeat="1" />
+                -->
+            </site>
+            <site name="www.framingeinstein.com" path="/nothing.html" />
+            <site name="www.framingeinstein2.com" path="/nothing.html" />
+            <site name="www.innatswanriver.com" path="/content/error/throwerror.cfm" />
+       
+        </sites>
+    </monitoring>
+</root>
