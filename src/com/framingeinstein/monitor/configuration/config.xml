@@ -11,9 +11,9 @@
     <reporting enabled="true" port="50500" />    
     <monitoring enabled="true" interval="10" timeout="5">
         <mail server="smtp.gmail.com" 
-              username="jason@framingeinstein.com" 
-              password="h4K^cr&amp;#" 
-              errorto="jmorgan@planwithtan.com" />
+              username="email@test.com" 
+              password="password" 
+              errorto="email@test.com" />
         <sites>                              
             <site name="www.planwithtan.com" path="/" >
                 <!--
