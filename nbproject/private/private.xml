@@ -1,17 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
-    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
-        <file>file:/Users/jason/Documents/projects/java/cfmon/src/com/framingeinstein/monitor/servers/MonitorServer.java</file>
-        <file>file:/Users/jason/Documents/projects/java/cfmon/src/com/framingeinstein/monitor/SiteMonitor.java</file>
-        <file>file:/Users/jason/Documents/projects/java/cfmon/src/com/framingeinstein/monitor/servers/ReportServer.java</file>
-        <file>file:/Users/jason/Documents/projects/java/cfmon/src/com/framingeinstein/monitor/configuration/config.xml</file>
-        <file>file:/Users/jason/Documents/projects/java/cfmon/src/com/framingeinstein/monitor/configuration/Configuration.java</file>
-        <file>file:/Users/jason/Documents/projects/java/cfmon/src/com/framingeinstein/monitor/configuration/MailConfiguration.java</file>
-        <file>file:/Users/jason/Documents/projects/java/cfmon/src/com/framingeinstein/monitor/configuration/ReportingConfiguration.java</file>
-        <file>file:/Users/jason/Documents/projects/java/cfmon/src/com/framingeinstein/monitor/report/Report.java</file>
-        <file>file:/Users/jason/Documents/projects/java/cfmon/src/com/framingeinstein/monitor/interfaces/Interface.java</file>
-        <file>file:/Users/jason/Documents/projects/java/cfmon/src/com/framingeinstein/monitor/interfaces/Listener.java</file>
-        <file>file:/Users/jason/Documents/projects/java/cfmon/src/com/framingeinstein/monitor/report/SiteReport.java</file>
-    </open-files>
 </project-private>
